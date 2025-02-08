@@ -1,14 +1,14 @@
-### Hi there 👋, меня зовут Семен
-#### Я программист, и это интересно
-[![Моя статистика](https://github-readme-stats.vercel.app/api?username=slznw)](https://github.com/anuraghazra/github-readme-stats)
+### Hi there 👋, my name is Semyon.
+#### I'm a programmer, and this is cool!
+[![My statistics](https://github-readme-stats.vercel.app/api?username=slznw)](https://github.com/anuraghazra/github-readme-stats)
 
-Добро пожаловать в мой профиль, я не знаю о чем писать :D
+Welcome to my profile! Here you can find out a little more about me than nothing.
+I'm from Russia, Irkutsk. I'm a student, yeah 
+I know: Python3, HTML, JS, CSS
 
-Знаю: Python3, HTML, JS, CSS
-
-- Сейчас познаю прекрасный язык Python (помогите)
-- Довольно редко публикую свои наработки
-- Ознакомиться с большинством моих проектов вы сможете в закрепленных репозиториях
+- Now i'm learning python and maybe some php. Just because it's fun!
+- Rarely i publish here my code. idk why
+- My important projects are pinned, so you can find them easily 
 
 
 
