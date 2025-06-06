@@ -4,7 +4,7 @@
 
 
 ### Here's my github statistics
-[![My statistics](https://github-readme-stats.vercel.app/api?username=slznw)](https://github.com/anuraghazra/github-readme-stats)
+[![My statistics](https://github-readme-stats.vercel.app/api?username=slznw&bg_color=303446&text_color=c6d0f5&icon_color=ca9ee6&title_color=81c8be)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Few things about me:
 - I'm from Russia, Irkutsk. I'm a student. 
