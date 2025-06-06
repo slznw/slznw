@@ -1,14 +1,24 @@
-### Hi there 👋, my name is Semyon.
-#### I'm a programmer, and this is cool!
+## Hi there 👋, my name is Semyon.
+### I'm a programmer, and this is cool!
+
+
+
+### Here's my github statistics
 [![My statistics](https://github-readme-stats.vercel.app/api?username=slznw)](https://github.com/anuraghazra/github-readme-stats)
 
-Welcome to my profile! Here you can find out a little more about me than nothing.
-I'm from Russia, Irkutsk. I'm a student, yeah 
-I know: Python3, HTML, JS, CSS
+### Few things about me:
+- I'm from Russia, Irkutsk. I'm a student. 
 
-- Now i'm learning python and maybe some php. Just because it's fun!
-- Rarely i publish here my code. idk why
-- My important projects are pinned, so you can find them easily 
+- I know: *Python3, web languages (e.g HTML, CSS, JS), linux systems (using Arch on my laptop), Windows administrating*
+
+- Using my home server for few projects
+
+### What i'm doing rn?
+- ~Now i'm learning python for future projects. Also i'm trying write scripts for my Arch system~ DONE!
+- I create sites for my projects, if needed
+
+
+p.s This page will be improved, if needed.
 
 
 
